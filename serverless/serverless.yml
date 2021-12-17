@@ -5,7 +5,7 @@ name: BiliExp # (必填) 创建的实例名称，请修改成您的实例名称
 
 #B站自动操作
 inputs:
-  name: ${app}-BiliExp #函数名称
+  name: ${app}-BiliExp(zynowhere) #函数名称
   #namespace: bilibili
   src: ./  #代码路径
   handler: BiliExp.main #入口
